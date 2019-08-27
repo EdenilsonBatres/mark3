@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Ellori</string>
+    <string name="icono_app_bienvenida">icono de la aplicacion</string>
+    <string name="btn_ellori">Ellori</string>
+
+    <string name="loguin_info"> Login</string>
+    <string name="txt_correo">Correo</string>
+    <string name="txt_pass">Contraseña</string>
+    <string name="btn_entrar">Entrar</string>
+    <string name="btn_facebook">Entrar con facebook</string>
+    <string name="registro">Registrarse</string>
+
+    <string name="fb_info">!Exelente¡, ahora inicia sesion con tu facebook para poder conectarte con ellori</string>
+    <string name="icono_fb_info">icono de inicio de sesion de facebook</string>
+
+    <string name="informacion_registro">Registro</string>
+    <string name="txt_nombre">Escribe tu nombre</string>
+    <string name="txt_apellido">Escribe tu apellido</string>
+    <string name="correo">Escribe un correo</string>
+    <string name="pass">Escribe una contraseña</string>
+    <string name="conf_pass">Confirma tu contraseña</string>
+    <string name="btn_registrar">Registrarse</string>
+
+    <string name="menu_tutorial">Tutorial</string>
+    <string name="menu_configuracion">Configuracion</string>
+    <string name="menu_consejos">Consejos</string>
+    <string name="menu_sugerencias">Sugerencias</string>
+    <string name="menu_ajustes">Ajustes</string>
+    <string name="menu_salir">Salir</string>
+
+    <string name="info_menu_txt">Menu</string>
+    <string name="icono_gestos_voz">boton que cumple con la funcion de gestos a voz</string>
+    <string name="icono_gestos_texto">boton que cumple con la funcion de gestos a texto</string>
+    <string name="icono_texto_voz">boton que cumple con la funcion de texto a voz</string>
+    <string name="icono_texto_señas">boton que cumple con la funcion de texto a señas</string>
+    <string name="icono_voz_señas">boton que cumple con la funcion de voz a señas</string>
+    <string name="icono_voz_texto">boton que cumple con la funcion de voz a texto</string>
+    <string name="icono_diccionario">boton que cumple con la funcion de diccionario</string>
+
+    <string name="gesto_voz">Esta es la activity de gesto a voz</string>
+    <string name="btn_home">¿quieres volver al menu?</string>
+
+    <string name="gesto_texto">Esta es la activity de gesto a texto</string>
+
+    <string name="texto_voz">Esta es la activity de texto a voz</string>
+
+    <string name="texto_gestos">Esta es la activity de texto a gestos</string>
+
+    <string name="voz_señas">Esta es la activity de voz a señas</string>
+
+    <string name="voz_texto">Esta es la activity de voz a texto</string>
+
+    <string name="diccionario">Esta es la activity de diccionario</string>
+
+
+</resources>

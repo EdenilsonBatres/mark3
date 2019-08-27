@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.mark3">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".texto_a_voz"></activity>
+        <activity android:name=".sugerencias" />
+        <activity android:name=".ajustes" />
+        <activity android:name=".consejos" />
+        <activity android:name=".configuracion" />
+        <activity android:name=".tutorial" />
+        <activity android:name=".diccionario" />
+        <activity android:name=".voz_a_texto" />
+        <activity android:name=".voz_a_gestos" />
+        <activity android:name=".texto_a_gestos" />
+        <activity android:name=".gesto_a_texto" />
+        <activity android:name=".gesto_a_voz" />
+        <activity android:name=".menu" />
+        <activity android:name=".log_facebook" />
+        <activity android:name=".registro" />
+        <activity android:name=".login" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
